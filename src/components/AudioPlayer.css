@@ -1,0 +1,27 @@
+/* src/AudioPlayer.css */
+.audio-player {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 10px 0;
+  }
+  
+  .play-button {
+    background-color: #08b2a1; /* Color del botón */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .play-button:hover {
+    background-color: #ff9a8b; /* Color del botón al pasar el ratón */
+  }
+  
+  .audio-title {
+    font-size: 14px;
+    color: #fff;
+  }
+  

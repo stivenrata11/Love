@@ -1,0 +1,14 @@
+/* src/AudioControl.css */
+.audio-control {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .volume-slider {
+    width: 150px;
+  }
+  
